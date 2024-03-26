@@ -9,8 +9,8 @@ import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import cafe.adriel.voyager.navigator.Navigator
 import cafe.adriel.voyager.transitions.SlideTransition
-import com.ajmr182.pokeapp.ui.feature.pokeDex.PokeDexScreen
-import com.ajmr182.pokeapp.ui.theme.PokeappTheme
+import com.ajmr182.pokeapp.src.feature.pokeDex.PokeDexScreen
+import com.ajmr182.pokeapp.src.theme.PokeappTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
